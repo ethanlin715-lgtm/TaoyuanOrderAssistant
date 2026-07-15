@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">桃園搶單助手</string>
+    <string name="service_enabled">服務已啟用</string>
+    <string name="service_disabled">服務已停用</string>
+    <string name="add_keyword">新增關鍵字</string>
+    <string name="delete_keyword">刪除</string>
+    <string name="keywords">關鍵字列表</string>
+    <string name="reply_templates">回覆模板</string>
+</resources>
